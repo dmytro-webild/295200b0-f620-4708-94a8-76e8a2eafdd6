@@ -45,7 +45,7 @@ export default function LandingPage() {
             { text: "Get Your Resume Crafted", href: "#contact" },
             { text: "View Services", href: "#services" }
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/smiling-woman-office-with-tablet_1098-2077.jpg?_wi=1"
+          imageSrc="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=1200&h=800&fit=crop"
           imageAlt="Professional career growth and success"
           showDimOverlay={true}
         />
@@ -59,7 +59,7 @@ export default function LandingPage() {
           buttons={[
             { text: "Learn More", href: "#why-choose-us" }
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/smiling-woman-office-with-tablet_1098-2077.jpg?_wi=2"
+          imageSrc="https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=800&fit=crop"
           imageAlt="Career success and professional achievement"
           useInvertedBackground={false}
         />
@@ -73,19 +73,19 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "ATS-Optimized Resume",              description: "Professionally crafted resumes tailored to your target role with 95/100 ATS scores guaranteed. Our resumes pass applicant tracking systems used by leading companies.",              imageSrc: "http://img.b2bpic.net/free-vector/attractive-online-curriculum-template_23-2147818274.jpg",              imageAlt: "ATS-optimized resume writing service"
+              title: "ATS-Optimized Resume",              description: "Professionally crafted resumes tailored to your target role with 95/100 ATS scores guaranteed. Our resumes pass applicant tracking systems used by leading companies.",              imageSrc: "https://images.unsplash.com/photo-1586280191855-c3bae50d5e5d?w=1200&h=800&fit=crop",              imageAlt: "ATS-optimized resume writing service"
             },
             {
               id: 2,
-              title: "Cover Letter Design",              description: "Compelling cover letters that highlight your unique value and grab recruiter attention. Each letter is customized to position you as the ideal candidate.",              imageSrc: "http://img.b2bpic.net/free-vector/collection-photography-blog-element_23-2147559815.jpg?_wi=1",              imageAlt: "Professional cover letter design"
+              title: "Cover Letter Design",              description: "Compelling cover letters that highlight your unique value and grab recruiter attention. Each letter is customized to position you as the ideal candidate.",              imageSrc: "https://images.unsplash.com/photo-1516534775068-bb6d82eaf633?w=1200&h=800&fit=crop",              imageAlt: "Professional cover letter design"
             },
             {
               id: 3,
-              title: "LinkedIn Optimization",              description: "Complete profile makeover with keyword optimization, custom banner design, and profile headline optimization to attract recruiters and hiring managers.",              imageSrc: "http://img.b2bpic.net/free-vector/image-people-avatars-connecting-each-other_1048-3303.jpg",              imageAlt: "LinkedIn profile optimization service"
+              title: "LinkedIn Optimization",              description: "Complete profile makeover with keyword optimization, custom banner design, and profile headline optimization to attract recruiters and hiring managers.",              imageSrc: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=800&fit=crop",              imageAlt: "LinkedIn profile optimization service"
             },
             {
               id: 4,
-              title: "Free Cheat Sheets",              description: "Exclusive access to recruiter emails, low-traffic job boards with less competition, LinkedIn tricks, referral strategies, and direct hiring manager contacts.",              imageSrc: "http://img.b2bpic.net/free-vector/collection-photography-blog-element_23-2147559815.jpg?_wi=2",              imageAlt: "Career cheat sheets and resources"
+              title: "Free Cheat Sheets",              description: "Exclusive access to recruiter emails, low-traffic job boards with less competition, LinkedIn tricks, referral strategies, and direct hiring manager contacts.",              imageSrc: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=800&fit=crop",              imageAlt: "Career cheat sheets and resources"
             }
           ]}
           animationType="blur-reveal"
@@ -116,13 +116,13 @@ export default function LandingPage() {
           tag="Secret Weapon"
           products={[
             {
-              id: "1",              name: "Google Senior Manager Template",              price: "Included",              imageSrc: "http://img.b2bpic.net/free-vector/set-four-vintage-quality-badges_23-2147551086.jpg?_wi=1",              imageAlt: "Google professional resume template"
+              id: "1",              name: "Google Senior Manager Template",              price: "Included",              imageSrc: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=800&fit=crop",              imageAlt: "Google professional resume template"
             },
             {
-              id: "2",              name: "Amazon PM Template",              price: "Included",              imageSrc: "http://img.b2bpic.net/free-vector/set-four-vintage-quality-badges_23-2147551086.jpg?_wi=2",              imageAlt: "Amazon PM resume template"
+              id: "2",              name: "Amazon PM Template",              price: "Included",              imageSrc: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=800&fit=crop",              imageAlt: "Amazon PM resume template"
             },
             {
-              id: "3",              name: "Microsoft Engineer Template",              price: "Included",              imageSrc: "http://img.b2bpic.net/free-vector/set-four-vintage-quality-badges_23-2147551086.jpg?_wi=3",              imageAlt: "Microsoft technical resume template"
+              id: "3",              name: "Microsoft Engineer Template",              price: "Included",              imageSrc: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=800&fit=crop",              imageAlt: "Microsoft technical resume template"
             }
           ]}
           gridVariant="three-columns-all-equal-width"
@@ -139,16 +139,16 @@ export default function LandingPage() {
           tag="Client Results"
           testimonials={[
             {
-              id: "1",              name: "Rajesh Kumar, Senior Software Engineer at Infosys",              date: "Date: Recent",              title: "Transformed my 8-year experience resume",              quote: "Bala transformed my 8-year experience resume into an ATS-optimized masterpiece. Got shortlisted for Google within 2 weeks! The attention to detail and industry-specific optimization made all the difference.",              tag: "Tech Professional",              avatarSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-young-man-black-jacket_23-2147955449.jpg",              avatarAlt: "Rajesh Kumar",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-young-man-black-jacket_23-2147955449.jpg",              imageAlt: "Rajesh Kumar success story"
+              id: "1",              name: "Rajesh Kumar, Senior Software Engineer at Infosys",              date: "Date: Recent",              title: "Transformed my 8-year experience resume",              quote: "Bala transformed my 8-year experience resume into an ATS-optimized masterpiece. Got shortlisted for Google within 2 weeks! The attention to detail and industry-specific optimization made all the difference.",              tag: "Tech Professional",              avatarSrc: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop",              avatarAlt: "Rajesh Kumar",              imageSrc: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=800&fit=crop",              imageAlt: "Rajesh Kumar success story"
             },
             {
-              id: "2",              name: "Michael Chen, Product Manager at Amazon",              date: "Date: Recent",              title: "The MNC template strategy is genius",              quote: "The MNC template strategy is genius! My resume now mirrors successful Amazon PMs. Landed 3 interviews in top tech companies within a month. Highly recommended for anyone serious about their career.",              tag: "Product Manager",              avatarSrc: "http://img.b2bpic.net/free-photo/businessman-smiling-looking-camera_23-2148112827.jpg",              avatarAlt: "Michael Chen",              imageSrc: "http://img.b2bpic.net/free-photo/businessman-smiling-looking-camera_23-2148112827.jpg",              imageAlt: "Michael Chen success story"
+              id: "2",              name: "Michael Chen, Product Manager at Amazon",              date: "Date: Recent",              title: "The MNC template strategy is genius",              quote: "The MNC template strategy is genius! My resume now mirrors successful Amazon PMs. Landed 3 interviews in top tech companies within a month. Highly recommended for anyone serious about their career.",              tag: "Product Manager",              avatarSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop",              avatarAlt: "Michael Chen",              imageSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=1200&h=800&fit=crop",              imageAlt: "Michael Chen success story"
             },
             {
-              id: "3",              name: "Priya Sharma, Senior Manager at TechCorp",              date: "Date: Recent",              title: "Best investment in my career",              quote: "Best investment in my career! The LinkedIn optimization alone opened doors I didn't expect. Combined with the resume overhaul, I went from 2 interviews in 6 months to getting multiple offers.",              tag: "Management",              avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-sitting-couch_23-2149915934.jpg",              avatarAlt: "Priya Sharma",              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-sitting-couch_23-2149915934.jpg",              imageAlt: "Priya Sharma success story"
+              id: "3",              name: "Priya Sharma, Senior Manager at TechCorp",              date: "Date: Recent",              title: "Best investment in my career",              quote: "Best investment in my career! The LinkedIn optimization alone opened doors I didn't expect. Combined with the resume overhaul, I went from 2 interviews in 6 months to getting multiple offers.",              tag: "Management",              avatarSrc: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&h=200&fit=crop",              avatarAlt: "Priya Sharma",              imageSrc: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=1200&h=800&fit=crop",              imageAlt: "Priya Sharma success story"
             },
             {
-              id: "4",              name: "David Wilson, Senior Data Scientist",              date: "Date: Recent",              title: "Career game-changer",              quote: "The career cheat sheets and recruiter contacts provided invaluable insights. Got connected directly to hiring managers at multiple Fortune 500 companies. This service is a career game-changer.",              tag: "Data Science",              avatarSrc: "http://img.b2bpic.net/free-photo/smiling-elegant-man-with-one-fist-raised_23-2147574146.jpg",              avatarAlt: "David Wilson",              imageSrc: "http://img.b2bpic.net/free-photo/smiling-elegant-man-with-one-fist-raised_23-2147574146.jpg",              imageAlt: "David Wilson success story"
+              id: "4",              name: "David Wilson, Senior Data Scientist",              date: "Date: Recent",              title: "Career game-changer",              quote: "The career cheat sheets and recruiter contacts provided invaluable insights. Got connected directly to hiring managers at multiple Fortune 500 companies. This service is a career game-changer.",              tag: "Data Science",              avatarSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop",              avatarAlt: "David Wilson",              imageSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=1200&h=800&fit=crop",              imageAlt: "David Wilson success story"
             }
           ]}
           textboxLayout="default"
