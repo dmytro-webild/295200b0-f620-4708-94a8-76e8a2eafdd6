@@ -45,7 +45,7 @@ export default function LandingPage() {
             { text: "Get Your Resume Crafted", href: "#contact" },
             { text: "View Services", href: "#services" }
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/smiling-woman-office-with-tablet_1098-2077.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/smiling-woman-office-with-tablet_1098-2077.jpg?_wi=1"
           imageAlt="Professional career growth and success"
           showDimOverlay={true}
         />
@@ -59,7 +59,7 @@ export default function LandingPage() {
           buttons={[
             { text: "Learn More", href: "#why-choose-us" }
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/smiling-woman-office-with-tablet_1098-2077.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/smiling-woman-office-with-tablet_1098-2077.jpg?_wi=2"
           imageAlt="Career success and professional achievement"
           useInvertedBackground={false}
         />
@@ -77,7 +77,7 @@ export default function LandingPage() {
             },
             {
               id: 2,
-              title: "Cover Letter Design",              description: "Compelling cover letters that highlight your unique value and grab recruiter attention. Each letter is customized to position you as the ideal candidate.",              imageSrc: "http://img.b2bpic.net/free-vector/collection-photography-blog-element_23-2147559815.jpg",              imageAlt: "Professional cover letter design"
+              title: "Cover Letter Design",              description: "Compelling cover letters that highlight your unique value and grab recruiter attention. Each letter is customized to position you as the ideal candidate.",              imageSrc: "http://img.b2bpic.net/free-vector/collection-photography-blog-element_23-2147559815.jpg?_wi=1",              imageAlt: "Professional cover letter design"
             },
             {
               id: 3,
@@ -85,7 +85,7 @@ export default function LandingPage() {
             },
             {
               id: 4,
-              title: "Free Cheat Sheets",              description: "Exclusive access to recruiter emails, low-traffic job boards with less competition, LinkedIn tricks, referral strategies, and direct hiring manager contacts.",              imageSrc: "http://img.b2bpic.net/free-vector/collection-photography-blog-element_23-2147559815.jpg",              imageAlt: "Career cheat sheets and resources"
+              title: "Free Cheat Sheets",              description: "Exclusive access to recruiter emails, low-traffic job boards with less competition, LinkedIn tricks, referral strategies, and direct hiring manager contacts.",              imageSrc: "http://img.b2bpic.net/free-vector/collection-photography-blog-element_23-2147559815.jpg?_wi=2",              imageAlt: "Career cheat sheets and resources"
             }
           ]}
           animationType="blur-reveal"
@@ -116,13 +116,13 @@ export default function LandingPage() {
           tag="Secret Weapon"
           products={[
             {
-              id: "1",              name: "Google Senior Manager Template",              price: "Included",              imageSrc: "http://img.b2bpic.net/free-vector/set-four-vintage-quality-badges_23-2147551086.jpg",              imageAlt: "Google professional resume template"
+              id: "1",              name: "Google Senior Manager Template",              price: "Included",              imageSrc: "http://img.b2bpic.net/free-vector/set-four-vintage-quality-badges_23-2147551086.jpg?_wi=1",              imageAlt: "Google professional resume template"
             },
             {
-              id: "2",              name: "Amazon PM Template",              price: "Included",              imageSrc: "http://img.b2bpic.net/free-vector/set-four-vintage-quality-badges_23-2147551086.jpg",              imageAlt: "Amazon PM resume template"
+              id: "2",              name: "Amazon PM Template",              price: "Included",              imageSrc: "http://img.b2bpic.net/free-vector/set-four-vintage-quality-badges_23-2147551086.jpg?_wi=2",              imageAlt: "Amazon PM resume template"
             },
             {
-              id: "3",              name: "Microsoft Engineer Template",              price: "Included",              imageSrc: "http://img.b2bpic.net/free-vector/set-four-vintage-quality-badges_23-2147551086.jpg",              imageAlt: "Microsoft technical resume template"
+              id: "3",              name: "Microsoft Engineer Template",              price: "Included",              imageSrc: "http://img.b2bpic.net/free-vector/set-four-vintage-quality-badges_23-2147551086.jpg?_wi=3",              imageAlt: "Microsoft technical resume template"
             }
           ]}
           gridVariant="three-columns-all-equal-width"
