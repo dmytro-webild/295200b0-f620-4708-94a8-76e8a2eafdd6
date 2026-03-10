@@ -59,7 +59,7 @@ export default function LandingPage() {
           buttons={[
             { text: "Learn More", href: "#why-choose-us" }
           ]}
-          imageSrc="https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=800&fit=crop"
+          imageSrc="https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=800&fit=crop&_wi=1"
           imageAlt="Career success and professional achievement"
           useInvertedBackground={false}
         />
@@ -81,11 +81,11 @@ export default function LandingPage() {
             },
             {
               id: 3,
-              title: "LinkedIn Optimization",              description: "Complete profile makeover with keyword optimization, custom banner design, and profile headline optimization to attract recruiters and hiring managers.",              imageSrc: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=800&fit=crop",              imageAlt: "LinkedIn profile optimization service"
+              title: "LinkedIn Optimization",              description: "Complete profile makeover with keyword optimization, custom banner design, and profile headline optimization to attract recruiters and hiring managers.",              imageSrc: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=800&fit=crop&_wi=2",              imageAlt: "LinkedIn profile optimization service"
             },
             {
               id: 4,
-              title: "Free Cheat Sheets",              description: "Exclusive access to recruiter emails, low-traffic job boards with less competition, LinkedIn tricks, referral strategies, and direct hiring manager contacts.",              imageSrc: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=800&fit=crop",              imageAlt: "Career cheat sheets and resources"
+              title: "Free Cheat Sheets",              description: "Exclusive access to recruiter emails, low-traffic job boards with less competition, LinkedIn tricks, referral strategies, and direct hiring manager contacts.",              imageSrc: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=800&fit=crop&_wi=3",              imageAlt: "Career cheat sheets and resources"
             }
           ]}
           animationType="blur-reveal"
@@ -116,13 +116,13 @@ export default function LandingPage() {
           tag="Secret Weapon"
           products={[
             {
-              id: "1",              name: "Google Senior Manager Template",              price: "Included",              imageSrc: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=800&fit=crop",              imageAlt: "Google professional resume template"
+              id: "1",              name: "Google Senior Manager Template",              price: "Included",              imageSrc: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=800&fit=crop&_wi=1",              imageAlt: "Google professional resume template"
             },
             {
-              id: "2",              name: "Amazon PM Template",              price: "Included",              imageSrc: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=800&fit=crop",              imageAlt: "Amazon PM resume template"
+              id: "2",              name: "Amazon PM Template",              price: "Included",              imageSrc: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=800&fit=crop&_wi=2",              imageAlt: "Amazon PM resume template"
             },
             {
-              id: "3",              name: "Microsoft Engineer Template",              price: "Included",              imageSrc: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=800&fit=crop",              imageAlt: "Microsoft technical resume template"
+              id: "3",              name: "Microsoft Engineer Template",              price: "Included",              imageSrc: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=1200&h=800&fit=crop&_wi=3",              imageAlt: "Microsoft technical resume template"
             }
           ]}
           gridVariant="three-columns-all-equal-width"
@@ -142,13 +142,13 @@ export default function LandingPage() {
               id: "1",              name: "Rajesh Kumar, Senior Software Engineer at Infosys",              date: "Date: Recent",              title: "Transformed my 8-year experience resume",              quote: "Bala transformed my 8-year experience resume into an ATS-optimized masterpiece. Got shortlisted for Google within 2 weeks! The attention to detail and industry-specific optimization made all the difference.",              tag: "Tech Professional",              avatarSrc: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop",              avatarAlt: "Rajesh Kumar",              imageSrc: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=800&fit=crop",              imageAlt: "Rajesh Kumar success story"
             },
             {
-              id: "2",              name: "Michael Chen, Product Manager at Amazon",              date: "Date: Recent",              title: "The MNC template strategy is genius",              quote: "The MNC template strategy is genius! My resume now mirrors successful Amazon PMs. Landed 3 interviews in top tech companies within a month. Highly recommended for anyone serious about their career.",              tag: "Product Manager",              avatarSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop",              avatarAlt: "Michael Chen",              imageSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=1200&h=800&fit=crop",              imageAlt: "Michael Chen success story"
+              id: "2",              name: "Michael Chen, Product Manager at Amazon",              date: "Date: Recent",              title: "The MNC template strategy is genius",              quote: "The MNC template strategy is genius! My resume now mirrors successful Amazon PMs. Landed 3 interviews in top tech companies within a month. Highly recommended for anyone serious about their career.",              tag: "Product Manager",              avatarSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop",              avatarAlt: "Michael Chen",              imageSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=1200&h=800&fit=crop&_wi=1",              imageAlt: "Michael Chen success story"
             },
             {
               id: "3",              name: "Priya Sharma, Senior Manager at TechCorp",              date: "Date: Recent",              title: "Best investment in my career",              quote: "Best investment in my career! The LinkedIn optimization alone opened doors I didn't expect. Combined with the resume overhaul, I went from 2 interviews in 6 months to getting multiple offers.",              tag: "Management",              avatarSrc: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&h=200&fit=crop",              avatarAlt: "Priya Sharma",              imageSrc: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=1200&h=800&fit=crop",              imageAlt: "Priya Sharma success story"
             },
             {
-              id: "4",              name: "David Wilson, Senior Data Scientist",              date: "Date: Recent",              title: "Career game-changer",              quote: "The career cheat sheets and recruiter contacts provided invaluable insights. Got connected directly to hiring managers at multiple Fortune 500 companies. This service is a career game-changer.",              tag: "Data Science",              avatarSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop",              avatarAlt: "David Wilson",              imageSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=1200&h=800&fit=crop",              imageAlt: "David Wilson success story"
+              id: "4",              name: "David Wilson, Senior Data Scientist",              date: "Date: Recent",              title: "Career game-changer",              quote: "The career cheat sheets and recruiter contacts provided invaluable insights. Got connected directly to hiring managers at multiple Fortune 500 companies. This service is a career game-changer.",              tag: "Data Science",              avatarSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop",              avatarAlt: "David Wilson",              imageSrc: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=1200&h=800&fit=crop&_wi=2",              imageAlt: "David Wilson success story"
             }
           ]}
           textboxLayout="default"
